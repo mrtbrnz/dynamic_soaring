@@ -1,9 +1,41 @@
 ## Welcome to Dynamic Soaring Public Dataset Sharing Home Page
 
-Check out the repository for example Jupyter notebooks !
 
+## Presentation Video
+[![Screenshot](https://img.youtube.com/vi/RhaxZhJiHZ8/0.jpg)](https://youtu.be/RhaxZhJiHZ8)
+
+
+## Quick Start with post-processing scripts
+Check out the repository for [example Jupyter notebooks](https://github.com/mrtbrnz/dynamic_soaring/tree/main/notebooks) !
 
 More examples will be soon online !
+
+
+
+## Paper
+You can reach the paper from [this link.](https://hal.archives-ouvertes.fr/hal-03098769) (Paper may take some time to be visible, please check out later if you can not reach it.)
+
+
+## Reference
+If you find our work useful in your research, please consider citing :
+```
+@inproceedings{bronz:hal-03098769,
+  TITLE = {{Flight Testing of Dynamic Soaring Part-1 : Leeward Inclined Circle Trajectory}},
+  AUTHOR = {Bronz, Murat and Nikola, Gavrilovic and Drouin, Antoine and Hattenberger, Gautier and Moschetta, Jean-Marc},
+  URL = {https://hal-enac.archives-ouvertes.fr/hal-03098769},
+  BOOKTITLE = {{AIAA Scitech 2021 Forum}},
+  ADDRESS = {Virtual event, United States},
+  HAL_LOCAL_REFERENCE = {CID},
+  PUBLISHER = {{AIAA}},
+  SERIES = {AIAA Scitech 2021 Forum},
+  YEAR = {2021},
+  MONTH = Jan,
+  DOI = {10.2514/6.2021-1527},
+  HAL_ID = {hal-03098769},
+  HAL_VERSION = {v1},
+}
+```
+
 
 <!-- You can use the [editor on GitHub](https://github.com/mrtbrnz/dynamic_soaring/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
