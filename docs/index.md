@@ -1,8 +1,9 @@
 ## Welcome to Dynamic Soaring Public Dataset Sharing Home Page
 
+Check out the repository for example Jupyter notebooks !
 
-The data will be soon online !
 
+More examples will be soon online !
 
 <!-- You can use the [editor on GitHub](https://github.com/mrtbrnz/dynamic_soaring/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
