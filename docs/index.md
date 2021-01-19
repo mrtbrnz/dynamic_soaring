@@ -2,7 +2,7 @@
 
 
 ## Presentation Video
-[![Screenshot](https://img.youtube.com/vi/RhaxZhJiHZ8/0.jpg)](https://youtu.be/RhaxZhJiHZ8)
+[![Screenshot](https://img.youtube.com/vi/RhaxZhJiHZ8/hqdefault.jpg)](https://youtu.be/RhaxZhJiHZ8)
 
 
 ## Quick Start with post-processing scripts
