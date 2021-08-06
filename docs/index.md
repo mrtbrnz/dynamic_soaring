@@ -1,7 +1,16 @@
 ## Welcome to Dynamic Soaring Public Dataset Sharing Home Page
-Part-2 related data and scripts will be released soon ! very soon !
 
-## Presentation Video
+
+**Quick Start the Analyses with A Colab Notebook :**
+  + [Colab Notebook](https://colab.research.google.com/github/mrtbrnz/dynamic_soaring/blob/main/notebooks/part_2_analysis.ipynb) 
+  + Or check out the [Jupyter Notebook Preview](https://github.com/mrtbrnz/dynamic_soaring/blob/main/notebooks/part_2_analysis.ipynb)
+
+
+## Presentation Video for Part-2 will be available soon !
+Here!
+
+
+## Presentation Video for Part-1
 [![Screenshot](https://img.youtube.com/vi/RhaxZhJiHZ8/hqdefault.jpg)](https://youtu.be/RhaxZhJiHZ8)
 
 
@@ -12,8 +21,9 @@ More examples will be soon online !
 
 
 
-## Paper
-You can reach the paper from [this link.](https://hal.archives-ouvertes.fr/hal-03098769) (Paper may take some time to be visible, please check out later if you can not reach it.)
+## PaperS
++ You can reach the paper "Part-1" from [this link.](https://hal.archives-ouvertes.fr/hal-03098769)
++ "Part-2" will be online soon !
 
 
 ## Reference
