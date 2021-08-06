@@ -1,5 +1,5 @@
 ## Welcome to Dynamic Soaring Public Dataset Sharing Home Page
-
+Part-2 related data and scripts will be released soon ! very soon !
 
 ## Presentation Video
 [![Screenshot](https://img.youtube.com/vi/RhaxZhJiHZ8/hqdefault.jpg)](https://youtu.be/RhaxZhJiHZ8)
