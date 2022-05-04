@@ -6,11 +6,11 @@
   + Or check out the [Jupyter Notebook Preview](https://github.com/mrtbrnz/dynamic_soaring/blob/main/notebooks/part_2_analysis.ipynb)
 
 
-## Presentation Video for Part-2 will be available soon !
-Here!
+## Presentation Video for Part-2 (AIAA Aviation Forum 2021)
+[![Screenshot](https://img.youtube.com/vi/Sw99QP1prpI/hqdefault.jpg)](https://youtu.be/Sw99QP1prpI)
 
 
-## Presentation Video for Part-1
+## Presentation Video for Part-1 (AIAA SciTech 2021)
 [![Screenshot](https://img.youtube.com/vi/RhaxZhJiHZ8/hqdefault.jpg)](https://youtu.be/RhaxZhJiHZ8)
 
 
