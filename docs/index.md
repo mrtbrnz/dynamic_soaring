@@ -29,8 +29,16 @@ More examples will be soon online !
 ## Reference
 If you find our work useful in your research, please consider citing :
 ```
-@inproceedings{bronz:hal-03098769,
-  TITLE = {{Flight Testing of Dynamic Soaring Part-1 : Leeward Inclined Circle Trajectory}},
+@inproceedings{bronz2021flightP2,
+  title={Flight Testing of Dynamic Soaring Part-2: Open-Field Inclined Circle Trajectory},
+  author={Bronz, Murat and Gavrilovic, Nikola and Drouin, Antoine and Hattenberger, Gautier and Moschetta, Jean-Marc},
+  booktitle={AIAA AVIATION 2021 FORUM},
+  pages={2803},
+  year={2021}
+}
+
+@inproceedings{bronz2021flightP1,
+  TITLE = {Flight Testing of Dynamic Soaring Part-1 : Leeward Inclined Circle Trajectory},
   AUTHOR = {Bronz, Murat and Nikola, Gavrilovic and Drouin, Antoine and Hattenberger, Gautier and Moschetta, Jean-Marc},
   URL = {https://hal-enac.archives-ouvertes.fr/hal-03098769},
   BOOKTITLE = {{AIAA Scitech 2021 Forum}},
